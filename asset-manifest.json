@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/phone-shope/static/css/main.3676ac76.chunk.css",
+    "main.js": "/phone-shope/static/js/main.4afc1a67.chunk.js",
+    "main.js.map": "/phone-shope/static/js/main.4afc1a67.chunk.js.map",
+    "runtime~main.js": "/phone-shope/static/js/runtime~main.a9aeeb49.js",
+    "runtime~main.js.map": "/phone-shope/static/js/runtime~main.a9aeeb49.js.map",
+    "static/css/2.510409cd.chunk.css": "/phone-shope/static/css/2.510409cd.chunk.css",
+    "static/js/2.5001512d.chunk.js": "/phone-shope/static/js/2.5001512d.chunk.js",
+    "static/js/2.5001512d.chunk.js.map": "/phone-shope/static/js/2.5001512d.chunk.js.map",
+    "index.html": "/phone-shope/index.html",
+    "precache-manifest.0e52a668ece036742f8f502c72821d73.js": "/phone-shope/precache-manifest.0e52a668ece036742f8f502c72821d73.js",
+    "service-worker.js": "/phone-shope/service-worker.js",
+    "static/css/2.510409cd.chunk.css.map": "/phone-shope/static/css/2.510409cd.chunk.css.map",
+    "static/css/main.3676ac76.chunk.css.map": "/phone-shope/static/css/main.3676ac76.chunk.css.map",
+    "static/media/logo.svg": "/phone-shope/static/media/logo.9f7e506d.svg"
+  }
+}
